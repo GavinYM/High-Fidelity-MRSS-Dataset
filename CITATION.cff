@@ -9,7 +9,7 @@ authors:
     orcid: "https://orcid.org/0009-0007-2563-2951"   
 keywords:
   - Viscoelastic modeling
-  - XPBD
+  - PBD
   - mixed reality
   - surgical training
   - LC‑CUSUM
@@ -24,8 +24,8 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0007-2563-2951"
    
   title: "High Fidelity Surgical Training with Viscoelastic‑Aware Lun Models in Mixed Reality Environment"
-  journal: "Bioengineering"
-  year: 2025              
+  journal: ""
+  year: 2026              
   volume: ""           
   issue: ""          
   start: ""
