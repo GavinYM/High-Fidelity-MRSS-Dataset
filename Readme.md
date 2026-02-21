@@ -12,8 +12,10 @@ Note: The interfaces files of Flex should be obtained through legal channels. Th
 ## 🖼️ Repository Structure
 - `data_raw_biomechanics/`: The biomechanical data obtained by cutting and pressing the pig lungs
 - `data_raw_training/`:Trainee's original experimental data
-- `OpenHapticGrabber.cs`: Interaction Capture and Viscoelastic Force Calculation 
-- `BiomechForceCurve.cs`: CSV Curve Reading and Interpolation
+
+- `Scripts/`
+    - `OpenHapticGrabber.cs`: Interaction Capture and Viscoelastic Force Calculation 
+    - `BiomechForceCurve.cs`: CSV Curve Reading and Interpolation
 
 ## 📊 Data
 - `data_raw_biomechanics/`:
