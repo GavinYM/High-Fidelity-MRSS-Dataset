@@ -1,7 +1,7 @@
 cff-version: 1.2.0
-message: "If you use this repository (data), please cite our journal article first."
-title: "High Fidelity Surgical Training with Viscoelastic‑Aware Lun Models in Mixed Reality Environment"
-version: "1.0.0"
+message: "If you use this repository, please cite our paper: Viscoelastic Lung Modeling for Enhanced Mixed Reality Surgical Training, The Visual Computer."
+title: "Viscoelastic Lung Modeling for Enhanced Mixed Reality Surgical Training"
+version: "1.2.0"
 date-released: "2025.10.27"  
 authors:
   - family-names: "Gao"
@@ -23,8 +23,8 @@ preferred-citation:
       given-names: "Yiming"
       orcid: "https://orcid.org/0009-0007-2563-2951"
    
-  title: "High Fidelity Surgical Training with Viscoelastic‑Aware Lun Models in Mixed Reality Environment"
-  journal: ""
+  title: "Viscoelastic Lung Modeling for Enhanced Mixed Reality Surgical Training"
+  journal: "The Visual Computer"
   year: 2026              
   volume: ""           
   issue: ""          
