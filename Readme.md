@@ -57,6 +57,6 @@ If you use this repository  in your research, please cite our paper:
 @article{<gao2026visco>,
   title   = {<Viscoelastic Lung Modeling for Enhanced Mixed Reality Surgical Training>},
   author  = {<Yiming Gao>, <Kai Qian>, <Zijun Wang>, <Junfeng Wang>, <Linfei Wang*> and <Yonghang Tai>},
-  journal = {The Visual Computer},
+  journal = {Multimedia System},
   year    = {<2026>},
 }
