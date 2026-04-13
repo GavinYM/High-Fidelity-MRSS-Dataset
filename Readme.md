@@ -55,7 +55,7 @@ If you use this repository  in your research, please cite our paper:
 ### BibTeX
 ```bibtex
 @article{<gao2026visco>,
-  title   = {<Viscoelastic Lung Modeling for Enhanced Mixed Reality Surgical Training>},
+  title   = {<A Viscoelastic Lung Modeling Framework for Surgical Skills Training in Mixed Reality>},
   author  = {<Yiming Gao>, <Kai Qian>, <Zijun Wang>, <Junfeng Wang>, <Linfei Wang*> and <Yonghang Tai>},
   journal = {Multimedia System},
   year    = {<2026>},
